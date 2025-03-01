@@ -1,6 +1,6 @@
 # Data Visualization Using Real World Data in Python
 
-### Details
+### Academic Information
 - :ninja: **John Mike Asuncion** (BSCPE 1-2)
 - Object Oriented Programming `CMPE 103`
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
